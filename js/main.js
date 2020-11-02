@@ -15,3 +15,6 @@ let c = 6;
 let abc = [a, b, c];
 
 console.log(abc);
+
+/* 27198 */
+alert('Skrypt działa prawidłowo');
