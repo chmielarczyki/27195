@@ -28,3 +28,15 @@ if (num > 10) {
 } else {
     console.log('Podana liczba jest mniejsza od 10');
 }
+
+/* 27200 */
+
+let firstNumber;
+let secondNumber;
+
+function adding(firstNumber, secondNumber) {
+    let suma = firstNumber + secondNumber;
+    return suma;
+}
+
+console.log(adding (44, 33));
