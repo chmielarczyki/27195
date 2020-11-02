@@ -45,3 +45,9 @@ console.log(adding (44, 33));
 
 let paragraf = document.querySelector('p');
 paragraf.textContent='Dodawanie tekstu';
+
+/* 27202 */
+let button = document.querySelector('button');
+button.onclick = function() {
+    alert('Klik działa!');
+} 
