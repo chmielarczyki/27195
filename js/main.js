@@ -40,3 +40,8 @@ function adding(firstNumber, secondNumber) {
 }
 
 console.log(adding (44, 33));
+
+/* 27201 */
+
+let paragraf = document.querySelector('p');
+paragraf.textContent='Dodawanie tekstu';
